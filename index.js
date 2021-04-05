@@ -109,6 +109,17 @@ const promptUser = () => {
                     }
                 }
             },
+            {
+                type: 'input',
+                name: 'license',
+                message: 'Please enter license type',
+                choices: ['MIT', 'Perl', 'ISC']
+            },
+            {
+                type: "input",
+                message: 'Enter any test cases if any',
+                name: "test"
+            }
         ])
 };
 
