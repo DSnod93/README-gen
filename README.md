@@ -1,4 +1,4 @@
-# hi
+# Hello World
 
   
   ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
@@ -13,16 +13,16 @@
   * [Questions](#questions)
 
   ## Description
-  hi
+  Testing README genrator
   
   ## Installation 
-  hi
+  Install inquirer
   
   ## Usage 
-  hi
+  run node index.js
   
   ## License
-  MIT
+  
   
   ## Contributors
   
@@ -32,7 +32,7 @@
   
   ## Questions
   
-  Github:[hi](https://github.com/hi)
+  Github:[DSnod93](https://github.com/DSnod93)
   
-  Email:[hi]
+  Email:[test@gmail.com]
   
