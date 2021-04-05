@@ -1,4 +1,4 @@
-# Hello World
+# README generator
 
   
   ![badge](https://img.shields.io/badge/license-undefined-brightgreen)
@@ -12,27 +12,35 @@
   * [Test](#test)
   * [Questions](#questions)
 
-  ## Description
-  Testing README genrator
+  ## Description <hr>
+  This application generates README files based off of the entries that are input into the prompted questions. README provides information about the application as well as the usage, installation, and instructions on how to use etc. 
   
-  ## Installation 
-  Install inquirer
+  ## Installation <hr>
+  * npm init <br>
+  * npm install inquirer
   
-  ## Usage 
-  run node index.js
+  ## Usage <hr>
+  ![caption](video.gif)
+
+  VSCode
+  1. Enter folder that holds index.js file
+  2. In the terminal of VSCode enter: `node index.js`
+
+  Terminal
+  1. `cd` into folder containing index.js
+  2. Enter `node index.js`
+  ## License <hr>
   
-  ## License
+  
+  ## Contributors <hr>
   
   
-  ## Contributors
+  ## Test <hr>
   
   
-  ## Test
+  ## Questions <hr>
   
+  Github: [testAccount](https://github.com/test)
   
-  ## Questions
-  
-  Github:[DSnod93](https://github.com/DSnod93)
-  
-  Email:[test@gmail.com]
+  Email: [test@example.com]
   
